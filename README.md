@@ -2,7 +2,7 @@
 
 Repositório para estudos sobre o Spring AI
 
-*Requisitos parar desenvolvimento local:* ter o Java na versão 21 instalado e devidamente configurado.
+*Requisitos parar desenvolvimento local:* ter o Java na versão 21 ou superior instalado e devidamente configurado.
 
 Para Linux e MacOs é possível utilizar o *sdkman* para o gerenciamento de versões do Java instaladas na máquina local. 
 Para Windows, se tiver o WSL instalado, também é possível utilizá-lo.
