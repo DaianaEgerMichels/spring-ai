@@ -20,3 +20,6 @@ Para o build da aplicação, instalar e configurar o Maven.
 Necessário comprar créditos para utilizar a API.
 
 - [OpenAI](https://platform.openai.com/docs/guides/gpt)
+
+### Artigos úteis sobre o tema
+- [Spring IA 1.0 - Infoq](https://www.infoq.com/articles/spring-ai-1-0/)
