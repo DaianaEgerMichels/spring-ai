@@ -20,3 +20,9 @@ Para o build da aplicação, instalar e configurar o Maven.
 Necessário comprar créditos para utilizar a API.
 
 - [OpenAI](https://platform.openai.com/docs/guides/gpt)
+
+### Gemini:
+Necessário ter instalado e configurado o Google Cloud CLI.
+Criar o PROJECT_ID.
+- [Vertex AI](https://cloud.google.com/vertex-ai)
+- [Spring-aiVertex](https://docs.spring.io/spring-ai/reference/api/chat/vertexai-gemini-chat.html)
