@@ -25,7 +25,7 @@ Necessário comprar créditos para utilizar a API.
 Necessário ter instalado e configurado o Google Cloud CLI.
 Criar o PROJECT_ID.
 - [Vertex AI](https://cloud.google.com/vertex-ai)
-- [Spring-aiVertex](https://docs.spring.io/spring-ai/reference/api/chat/vertexai-gemini-chat.html)
+- [Spring-AI Vertex](https://docs.spring.io/spring-ai/reference/api/chat/vertexai-gemini-chat.html)
 
 ### Artigos úteis sobre o tema
-- [Spring IA 1.0 - Infoq](https://www.infoq.com/articles/spring-ai-1-0/)
+- [Spring AI 1.0 - Infoq](https://www.infoq.com/articles/spring-ai-1-0/)
