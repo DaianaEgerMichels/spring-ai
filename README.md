@@ -1,6 +1,6 @@
-# spring-ai
+# Spring AI
 
-Repositório para estudos sobre o Spring AI
+Repositório com aplicação prática do Spring AI
 
 *Requisitos parar desenvolvimento local:* ter o Java na versão 21 ou superior instalado e devidamente configurado.
 
